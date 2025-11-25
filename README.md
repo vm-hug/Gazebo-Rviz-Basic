@@ -1,7 +1,7 @@
 MÔ PHỎNG CÁNH TAY 6 KHỚP TRÊN GAZEBO & RVIZ
 
 Bước 1: Biên dịch lại (để chắc chắn ROS đăng ký gói mới)
-cd catkin_ws
+cd catkin_ws 
 catkin_make
 
 Bước 2: Nạp môi trường (Bước quan trọng nhất)
